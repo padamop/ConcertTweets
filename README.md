@@ -12,6 +12,15 @@ The latest version of this data set contains 150,000 ratings from 40,188 users r
 
 Earlier versions can be found here: http://pages.stern.nyu.edu/~padamopo/data/concertTweets/ 
 
+Using the unique (Twitter) user identifiers, this data set can be further enriched with cross-domain (e.g., books, movies) user activity. Datasets to consider for cross-domain research include https://github.com/sidooms/Twitter-ratings and <a href="https://github.com/sidooms/MovieTweetings" target="_blank"> MovieTweetings</a>.
+
+
+
+</br>
+
+
+
+
 
 
 If you use 'ConcertTweets' in your work, please cite the following paper: 

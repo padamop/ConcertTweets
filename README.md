@@ -6,7 +6,7 @@ ConcertTweets
 
 In an effort to facilitate scientific research purposes and further enable collaborations among researchers in the data mining, machine learning, and computer science communities, we publicly release the 'ConcertTweets' data set. 
 
-'ConcertTweets' combines implicit and explicit user ratings with rich content as well as spatio-temporal contextual dimensions and social network data. The data set can be easily further enriched with additional dimensions and ratings. "ConcertTweets: A Multi-Dimensional Data Set for Recommender Systems Research" provides a detailed description of the data set. 
+'ConcertTweets' combines implicit and explicit user ratings with rich content as well as spatio-temporal contextual dimensions and social network data. The data set can be easily further enriched with additional dimensions and ratings. "<a href="ConcertTweets.pdf" target="_blank">ConcertTweets: A Multi-Dimensional Data Set for Recommender Systems Research</a>" provides a detailed description of the data set. 
 
 The latest version of this data set contains 150,000 ratings from 40,188 users referring to 73,211 musical shows and concerts of 17,444 artists and bands. 
 

@@ -19,10 +19,10 @@ If you use 'ConcertTweets' in your work, please cite the following paper:
 > Panagiotis Adamopoulos, Alexander Tuzhilin: Estimating the Value of Multi-Dimensional Data Sets in Context-based Recommender Systems. ACM Conference on Recommender Systems (RecSys 2014)
 
 		@inproceedings{adamopoulos2014estimating,
-  title={{Estimating the Value of Multi-Dimensional Data Sets in Context-based Recommender Systems}},
-  author={Adamopoulos, Panagiotis and Tuzhilin, Alexander},
-  booktitle={8th ACM Conference on Recommender Systems (RecSys 2014)},
-  location={Foster City, Silicon Valley, USA},
-  year={2014}
-}
+		  title={{Estimating the Value of Multi-Dimensional Data Sets in Context-based Recommender Systems}},
+		  author={Adamopoulos, Panagiotis and Tuzhilin, Alexander},
+		  booktitle={8th ACM Conference on Recommender Systems (RecSys 2014)},
+		  location={Foster City, Silicon Valley, USA},
+		  year={2014}
+		}
 

@@ -14,15 +14,8 @@ Earlier versions can be found here: http://pages.stern.nyu.edu/~padamopo/data/co
 
 Using the unique (Twitter) user identifiers, this data set can be further enriched with cross-domain (e.g., books, movies) user activity. Datasets to consider for cross-domain research include https://github.com/sidooms/Twitter-ratings and <a href="https://github.com/sidooms/MovieTweetings" target="_blank"> MovieTweetings</a>.
 
-
-
-</br>
-
-
-
-
-
-
+  
+  
 If you use 'ConcertTweets' in your work, please cite the following paper: 
 
 > Panagiotis Adamopoulos, Alexander Tuzhilin: *Estimating the Value of Multi-Dimensional Data Sets in Context-based Recommender Systems*. ACM Conference on Recommender Systems (RecSys 2014)

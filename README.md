@@ -8,9 +8,9 @@ In an effort to facilitate scientific research purposes and further enable colla
 
 'ConcertTweets' combines implicit and explicit user ratings with rich content as well as spatio-temporal contextual dimensions and social network data. The data set can be easily further enriched with additional dimensions and ratings. "<a href="http://pages.stern.nyu.edu/~padamopo/data/ConcertTweets.pdf" target="_blank">ConcertTweets: A Multi-Dimensional Data Set for Recommender Systems Research</a>" provides a detailed description of the data set. 
 
-The latest version of this data set contains 185,000 ratings from 47,500 users referring to 87,825 musical shows and concerts of 19,849 artists and bands. In particular, the data set consists of the following files:
+The latest version of this data set contains 200,000 ratings from 50,492 users referring to 94,558 musical shows and concerts of 20,922 artists and bands. In particular, the data set consists of the following files:
   - **users.dat** Contains the information of the users. The user IDs correspond to the Twitter API user ID. The following information is included: user ID. Additional information can be retrieved using the Twitter API and the provided IDs. 
-  In order to obtain additional information, such as the description of the user profile and the number of followers, friends, and tweets of each account, corresponding to the time of each collected rating, you are encouraged to contact the authors.
+  In order to obtain additional information, such as the corresponding social network and the description of the user profile as well as the number of followers, friends, and tweets of each account, corresponding to the time of each collected rating, you are encouraged to contact the authors.
   
   - **events.dat** Contains the information of the musical concert. The following information is included: event ID, event date, city, state (or country), latitude, longitude, venue, and event URL.
   
